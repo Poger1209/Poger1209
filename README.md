@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poger1209
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on love
 - 📫 How to reach me hackisfunxd@gmail.com
 
